@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>819</width>
+    <height>811</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -177,6 +177,9 @@
       <height>31</height>
      </rect>
     </property>
+    <property name="text">
+     <string>2210010033</string>
+    </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_8">
     <property name="geometry">
@@ -186,6 +189,9 @@
       <width>341</width>
       <height>31</height>
      </rect>
+    </property>
+    <property name="text">
+     <string>JAMILATUZZAHRA</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_9">
@@ -197,6 +203,9 @@
       <height>31</height>
      </rect>
     </property>
+    <property name="text">
+     <string>5M TI REG BJM</string>
+    </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_10">
     <property name="geometry">
@@ -206,6 +215,9 @@
       <width>341</width>
       <height>31</height>
      </rect>
+    </property>
+    <property name="text">
+     <string>BANJARMASIN</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_11">
@@ -217,6 +229,9 @@
       <height>31</height>
      </rect>
     </property>
+    <property name="text">
+     <string>2 APRIL 2003</string>
+    </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_12">
     <property name="geometry">
@@ -227,6 +242,9 @@
       <height>31</height>
      </rect>
     </property>
+    <property name="text">
+     <string>087737663031</string>
+    </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_13">
     <property name="geometry">
@@ -236,6 +254,9 @@
       <width>341</width>
       <height>31</height>
      </rect>
+    </property>
+    <property name="text">
+     <string>jjamilatuzzahra@gmail.com</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton">
@@ -318,7 +339,7 @@ background-color: rgb(170, 170, 255);</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>819</width>
      <height>26</height>
     </rect>
    </property>
